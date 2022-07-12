@@ -1,0 +1,46 @@
+.summary {
+  text-align: center;
+  max-width: 45rem;
+  width: 90%;
+  margin: auto;
+  margin-top: -10rem;
+  position: relative;
+  background-color: #383838;
+  color: white;
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);
+}
+
+.summary h2 {
+  font-size: 2rem;
+  margin-top: 0;
+}
+
+.nav ul {
+  display: inline-flex;
+  gap: 35px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: block;
+  font-size: 1.25rem;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #e7ad10;
+}
+
+.nav a:hover,
+.nav a:active,
+.nav a.active {
+  color: #ffffff;
+}
+
+.nav a img {
+  height: 70px;
+}
