@@ -60,7 +60,7 @@
 
 @media (max-width: 768px) {
   .button {
-    padding: 0.75rem;
+    padding: 0.45rem;
     border-radius: 5px;
   }
 
@@ -72,8 +72,8 @@
   
   .badge {
     background-color: #e7ad10;
-    padding: 0.25rem 1rem;
-    border-radius: 25px;
+    padding: 0.1rem 0.8rem;
+    border-radius: 10px;
     margin-left: 1rem;
     font-weight: bold;
   }
